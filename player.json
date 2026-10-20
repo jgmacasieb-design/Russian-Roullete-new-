@@ -1,3 +1,4 @@
 {
-  
+  "options" =("Options: \n (1) Use Item\n (2) Shoot yourself\n (3) Shoot Opponent then self\n (4) roll barrel\n (5) Call for Item"),
+  "temporary_items" = ["a","b","c","d"]
 }
